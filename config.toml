@@ -1,7 +1,7 @@
-baseurl = "http://www.tengio.com/"
+baseurl = "http://www.scignals.com"
 languageCode = "en-us"
-title = "Tengio | We build apps"
-disqusShortname = "tengio"
+title = "Scignals | Waves in brain"
+disqusShortname = "scignals"
 tags = ["Team", "TDD", "Kotlin", "AI", "Web", "Flutter"]
 pygmentsstyle = "default"
 PygmentsCodeFences = true
@@ -16,11 +16,11 @@ pygmentsUseClasses = true
     filename = "sitemap.xml"
 
 [params]
-    name = "Luigi Agosti, Akshay Dashrath"
-    description = "Tengio turns your idea into beautiful and reliable products on Android, iOS and the Web."
+    name = "Juan Barios, Nazario Felix"
+    description = "Scignals creates great products for processing the signals of yor brain."
 
     [params.cdn]
-        images = "/img"
+        images = "img"
 
 	[params.navigation]
         brand = "small_logo.svg"
@@ -36,28 +36,28 @@ pygmentsUseClasses = true
 
     [params.about]
         headline = "About Us"
-        description = "We are mobile native developer experts"
-        about1 = "Mobile is what makes us tick. Working at the cutting edge. Making technology deliver. Creating stunning customer solutions. It’s what gets us out of bed in the morning. It’s why we love coming to work. It’s what we’re good at."
-        about2 = "Tengio is based in Shoreditch, London and we work with customers worldwide. We’ve brought together a team of dedicated, passionate developers who love building great products on mobile. We’ve got the experience that counts. From apps to SDKs, e-commerce to low-energy systems, we’ve got our finger on the pulse. Our customers – such as Groupon, Gumtree or Adzuna – trust us to deliver outstanding results. Every time. We wouldn’t settle for less. We love technology but we think personality is pretty important too. We like all sorts of random things. Ginger beer. Marathon running. Pen collecting. But we’re pretty sure that mobile is what we do best."
+        description = "We are neurotechnology  experts"
+        about1 = "Brain signals are what makes us tick. Working at the cutting edge. Making technology deliver. Creating stunning customer solutions. It’s what gets us out of bed in the morning. It’s why we love coming to work. It’s what we’re good at."
+        about2 = "Scignals is based in Madrid, Spain and we work with customers worldwide. We’ve brought together a team of dedicated, passionate developers who love building great products on neurotechnology. We’ve got the experience that counts. Our customers  trust us to deliver outstanding results. Every time. We wouldn’t settle for less. We love technology but we think personality is pretty important too. We like all sorts of random things. Ginger beer. Marathon running. Pen collecting. But we’re pretty sure that signals is what we do best."
         aboutTitle = "Who we are"
-        storyTitle = "Tengio story"
-        story1 = "In 2014, Akshay Dashrath and Luigi Agosti founded Tengio. The pair had previously worked together for several years at an established Android consultancy in London – later they contracted jointly on projects. Their dream was to create a company that would set new standards in mobile solutions. They had no shortage of experience to draw on. They’ve worked for clients such as Songkick, JP Morgan, Burberry, eBay (Gumtree), ASOS and Laundrapp. Combining technical expertise with business flair, they’ve built apps that have had more than ten million downloads on Google Play. "
-        quote = "Right from the start, we wanted Tengio to be something different – a place where we could do outstanding work with some of the best minds in mobile"
-        quoteAuthor = "Akshay Dashrath, co-founder"
+        storyTitle = "Scignals story"
+        story1 = "In 2016, Juan Barios y Nazario Felix founded Scignals. The pair had previously worked together for several years as neuroscience researchers. Their dream was to create a company that would set new standards in neurotechnology. They had no shortage of experience to draw on. They’ve worked for clients such as Campofrío, Mahou, Pascual, Lacasa o Grefusa. Combining technical expertise with business flair, they’ve built incredible software and hardware. "
+        quote = "Right from the start, we wanted Scignals to be something different – a place where we could do outstanding work with some of the best minds in mobile"
+        quoteAuthor = "Juan Barios, co-founder"
 
         [[params.about.list]]
-            name = "Akshay Dashrath"
-            image = "akshay.jpg"
-            link = "https://www.linkedin.com/in/akshaydashrath"
+            name = "Juan Barios"
+            image = "Juan.jpg"
+            link = "https://www.linkedin.com/in/jabarios"
 
         [[params.about.list]]
-            name = "Luigi Agosti"
+            name = "Nazario Felix"
             image = "luigi.jpg"
-            link = "https://www.linkedin.com/in/luigiagosti"
+            link = "https://www.linkedin.com/in/nazariofelix"
 
         [params.about.values]
             headline = "Values"
-            description = "At Tengio, we live by our values. They shape the way we work and how we interact with the world."
+            description = "At Scignals, we live by our values. They shape the way we work and how we interact with the world."
 
             [[params.about.values.list]]
                 icon = "fa-diamond"
@@ -81,19 +81,19 @@ pygmentsUseClasses = true
 
     [params.services]
 		headline = "Our services"
-		description1 = "The opportunities for mobile are limitless. And for those who take them, the rewards are huge. In essence, we believe that better mobile is a simple proposition. It’s about having the ambition and the know-how to develop stronger, more engaging and more valuable relationships. With your customers. With your workforce. With anyone you choose to."
-		description2 = "This is where Tengio can help: making mobile work for you. Putting it at the heart of how you do business. Delivering the product you need, when you need it. Understanding how your markets work. And creating the solutions upon which you can depend."
+		description1 = "The opportunities for neurotechnology are limitless. And for those who take them, the rewards are huge. In essence, we believe that improving brains is a simple proposition. It’s about having the ambition and the know-how to develop stronger, more engaging and more valuable relationships. With your customers. With your workforce. With anyone you choose to."
+		description2 = "This is where Scignals can help: making brain signals work for you. Putting it at the heart of how you do business. Delivering the product you need, when you need it. Understanding how your markets work. And creating the solutions upon which you can depend."
 
 		[[params.services.list]]
 			icon = "fa-rocket"
             title = "Technology"
-			description = "At Tengio, we love working with the latest technologies."
+			description = "At Scignals, we love working with the latest technologies."
 			tags = [ "Android & iOS","Virtual & Augmented Reality","Progressive web","Cloud solutions" ]
 
 		[[params.services.list]]
 			 icon = "fa-pencil-square-o"
 			 title = "Design"
-			 description = "Form vs. function? With Tengio, you won’t have to choose."
+			 description = "Form vs. function? With Scignals, you won’t have to choose."
 			 tags = [ "Technical architecture","Material & best design practices", "AB testing","Scalable code" ]
 
         [[params.services.list]]
@@ -210,15 +210,15 @@ pygmentsUseClasses = true
     [params.contact]
         headline = "Let's Get In Touch!"
         description = "We love talking mobile. From big ideas to nuts and bolts, a conversation is where it all starts. Whatever’s on your mind, we’d love to hear from you."
-        phone = "+44 2032906415"
-        email = "contact@tengio.com"
-        address = "35 Kingsland Road Shoreditch E2 8AA"
+        phone = "+34 618186704"
+        email = "juan.barios@signalino.com"
+        address = "Manipa 68, 28042, Madrid, Spain"
         googlemap = "https://www.google.co.uk/maps/place/Tengio+Ltd/@51.5291439,-0.0806492,17z/data=!4m13!1m7!3m6!1s0x48761cbbbc841443:0x4241045b95d3f158!2sShoreditch+Building,+35+Kingsland+Rd,+Hackney,+London+E2+8AA!3b1!8m2!3d51.5291439!4d-0.0784605!3m4!1s0x0:0x41863c6057b925c3!8m2!3d51.5291441!4d-0.0784606"
-        city = "London"
-        country = "United Kingdom"
-        twitter = "https://goo.gl/cvmdxh"
-        facebook = "https://goo.gl/DHBIHa"
-        linkedin = "https://goo.gl/0sLbTI"
-        instagram = "https://goo.gl/oTVmj3"
-        youtube = "https://goo.gl/jbqlws"
-        companyName = "Tengio Ltd"
+        city = "Madrid"
+        country = "Spain"
+        twitter = "https://goo.gl/xxcvmdxh"
+        facebook = "https://goo.gl/xxDHBIHa"
+        linkedin = "https://goo.gl/xx0sLbTI"
+        instagram = "https://goo.gl/xxoTVmj3"
+        youtube = "https://goo.gl/xxjbqlws"
+        companyName = "Scignals sl"
