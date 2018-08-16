@@ -2,7 +2,7 @@
 id = "0001"
 date = "2016-11-12T16:11:58+05:30"
 title = "Signalino"
-description = "Signalino, the arduino shield. Signalino, the arduino shield."
+description = "Signalino, a powerful  opensource tool for recording biosignals and collect."
 summary = "Signalino, the arduino shield."
 author = "Komal,Veronica,Quentin"
 thumbnail = "/img/project/0001/thumbnail.jpg"

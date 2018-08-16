@@ -2,8 +2,8 @@
 id = "0003"
 date = "2016-11-12T16:11:58+05:30"
 title = "Improve learning with Memboost"
-description = "Memboost improves your memory. Memboost improves your memory."
-summary = "Memboost improves your memory."
+description = "Memboost improves your memory optimizating the brain processes that occur during sleep might enhance learning."
+summary = "Memboost improves your memohy."
 author = "Komal,Veronica,Quentin"
 thumbnail = "/img/project/0001/thumbnail.jpg"
 +++

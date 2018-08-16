@@ -52,7 +52,7 @@ pygmentsUseClasses = true
 
         [[params.about.list]]
             name = "Nazario Felix"
-            image = "luigi.jpg"
+            image = "nazario.png"
             link = "https://www.linkedin.com/in/nazariofelix"
 
         [params.about.values]
