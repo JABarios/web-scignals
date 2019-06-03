@@ -3,7 +3,7 @@ id = "0001"
 title = "Recording biosignals with signalino"
 description = "This is a short description of our first product, signalino, a powerful  opensource tool for those who want to register biosignals and collect data to launch their projects. "
 date = "2018-01-26T17:40:27+00:00"
-author = "jabarios"
+author = "juanb"
 tags = [ "EEG" ]
 +++
 

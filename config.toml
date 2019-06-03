@@ -1,4 +1,5 @@
 baseurl = "http://www.scignals.com"
+
 languageCode = "en-us"
 title = "Scignals | Waves in brain"
 disqusShortname = "scignals"
@@ -138,6 +139,25 @@ pygmentsUseClasses = true
             image = "amphio.jpg"
 
     [params.authors]
+        [params.authors.juanb]
+            key = "juanb"
+            name = "Juan B"
+            image = "juan150.jpg"
+            description = "Co-Founder at Scignals, Researcher aspirant"
+            linkedin = "https://www.linkedin.com/in/akshaydashrath"
+            twitter = "https://twitter.com/akshaydashrath"
+            github = "https://github.com/akshaydashrath"
+
+	[params.authors.nazario]
+            key = "nazario"
+            name = "Nazario"
+            image = "nazario150.png"
+            description = "Co-Founder at Scignals, Cycling as B-plan"
+            linkedin = "https://www.linkedin.com/in/akshaydashrath"
+            twitter = "https://twitter.com/akshaydashrath"
+            github = "https://github.com/akshaydashrath"
+
+
         [params.authors.akshay]
             key = "akshay"
             name = "Akshay"
@@ -201,7 +221,7 @@ pygmentsUseClasses = true
         [params.authors.harry]
             key = "harry"
             name = "Harry Roper"
-            image = "harry.jpg"
+            image = "juana.jpg"
             description = "Harry enjoys making games that make an impact utilising the latest technology's available to him. He also enjoys a good glass of whiskey and jazz based hiphop."
             linkedin = "https://www.linkedin.com/in/harry-roper-434a8a130"
             twitter = "https://twitter.com/harry_aldian"
