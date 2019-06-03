@@ -25,5 +25,5 @@ In scignals, we are working on the development of a device able to implement a n
 
 We also would like to demostrate that the long-term use of this medical device might improve memory in healthy aging brains, and might be relevant for other sleep complains, as mild cognitive impairment, sleep apnea or insomnia
 
-![article-img-centered](/img/blog/0002/memboost_propuesta.png)
+![article-img](/img/blog/0002/memboost_propuesta.png)
 

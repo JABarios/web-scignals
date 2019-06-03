@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
+ * Code licensed under the Apache License v2.0. yeah
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
@@ -200,8 +200,7 @@ header {
     width: 100%;
     min-height: 500px;
     text-align: center;
-    background-image: url(../img/logo.png);
-    background-image: url(../img/logo.svg);
+    background-image: url(../img/logo_scignals.svg);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
