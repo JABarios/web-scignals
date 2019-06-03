@@ -3,7 +3,7 @@ id = "0002"
 date = "2017-01-23T17:00:00+00:00"
 title = "Enhancing learning through sleep modulation"
 description = "Recent evidences suggests that optimization of brain processes that occur during sleep might enhance learning."
-author = "nazario"
+author = "juanb"
 tags = [ "Unity", "Cardboard", "VR", "Daydream", "GearVR", "Oculus" ]
 +++
 
