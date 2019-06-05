@@ -228,10 +228,13 @@ header .header-content {
     }
 }
 
+
 .section-heading {
     margin-top: 0;
     text-transform: uppercase;
 }
+
+
 
 .service-box {
     margin: 50px auto 0;
@@ -697,6 +700,7 @@ img[alt="article-img-centered"] {
 }
 
 #services,
+#page-top,
 #portfolio,
 #about {
   padding-top: 96px;
