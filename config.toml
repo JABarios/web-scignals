@@ -134,7 +134,7 @@ pygmentsUseClasses = true
             image = "pearlshare.png"
 
         [[params.portfolio.list]]
-            link = "http://amphio.com"
+            link = "http://amphio.coam"
             image = "amphio.jpg"
 
     [params.authors]
