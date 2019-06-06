@@ -83,20 +83,5 @@
         </div>
     </div>
 
-<h2>Click</h2>
-<form action="" method="post">
-    <button name="click" class="click">Click me!</button>
-</form>
-
-<textarea id="excel"></textarea>
-  
-$("#excel").change(function() {
-    var excelFile = $(this).val();
-    $.ajax({
-        url: "updateFile.php",
-        method: "post",
-        data: { data: excelFile }
-    });
-});
 
 </section>
