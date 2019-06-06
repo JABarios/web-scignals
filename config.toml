@@ -140,7 +140,7 @@ pygmentsUseClasses = true
     [params.authors]
         [params.authors.juanb]
             key = "juanb"
-            name = "Juan B"
+            name = "Juan Barios"
             image = "juan150.jpg"
             description = "Co-Founder at Scignals, a Researcher aspirant"
             linkedin = "https://www.linkedin.com/in/shaydashrath"
