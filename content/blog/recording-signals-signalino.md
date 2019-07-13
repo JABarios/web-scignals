@@ -12,7 +12,7 @@ tags = [ "EEG" ]
 
 ## Introduction
 
-In Signalino we are makers from the very beginning, and we support the
+In Signalino we the signaliners are makers from the very beginning, and we support the
 Do It Yourself (DIY) movement, teamwork, obtaining and producing
 knowledge in community. We believe in a change of mentality that helps
 us to share ideas, projects and develop them together. This is why
